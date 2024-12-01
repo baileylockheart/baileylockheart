@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @baileylockheart, although on most socials, I'm @bailey_lockheart! (The underscore is important to me but it's not allowed everywhere ㅠㅠ)
-- 👀 I’m interested in front end web development, I think? I make lots of little websites and spend a lot of my time toying around with HTML and CSS, more than anything else. Also, I'm a singer-songwriter! I love songwriting, and I've already published <a href="https://snd.click/lxxz" target="_blank">my first EP</a>, although I don't know exactly how relevant that is here 😅
-- 🌱 I’m currently learning HTML and CSS, as I said - I know enough to make what I want to make, but I want to learn more. Also, I'm trying (and vaguely failing) to learn Javascript, but I'm taking my time to get really good with the first two.
-- 💞️ I’m not particularly interested in collaborations, so much as I want to look around, see what people are up to, and learn along the way! Once I'm confident enough in what I do to think I could participate in a project without messing it up, this may change.
-- 📫 Like I said, I'm @bailey_lockheart on most socials! That includes Instagram and Discord, which is where it'd be best to DM me if you wanna talk :) 
+# HIIII WELCOME IN!! ʚ(｡˃ ᵕ ˂ )ɞ
+This is gonna be my place to put just about everything I do in terms of websites and coding! ~~I feel like that's a given?~~
 
-<!---
-baileylockheart/baileylockheart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Bailey, though you can also call me Jay! I like to play around with HTML and CSS to make static websites, though I am (somewhat) trying to learn JavaScript as well! I usually know enough to do what I want to do, but there's still lots for me to learn. I've been toying with personal websites for about two years now, and you can look [here](https://baileylockheart.github.io) to see what I've made so far!
+
+I definitely over-rely on social media, as many do, but I still have a special place in my heart for personal websites and the freedom/creativity that they allow! Because of that, I've made quite a few! My most recent one, [lockheartlove](https://lockheartlove.netlify.app), is intended as a internet brain dump. It's meant for my interests and collections of fun things, and I'm actively looking for more things to add to it! I like looking around on Neocities and clicking through webrings, and I also enjoy looking through my mutuals' carrds/rentrys/strawpages if they have them! Generally speaking, I love the idea of an indie web revival, even if I'm not old enough to get nostalgia from it. I'd like to have some fun in my corner of the internet, and also witness the creativity that others can express in theirs!
+
+⊹ ࣪ ˖₊˚⊹⋆
+
+If you wanna find me elsewhere, here are some of my links! I'm most active on Bluesky and Threads :)
+
+[![YouTube](https://img.shields.io/badge/YouTube-e63c3c?logo=YouTube&logoColor=f5f5f5)](https://www.youtube.com/@bailey_lockheart) [![TikTok](https://img.shields.io/badge/TikTok-40b9c2?logo=TikTok&logoColor=f5f5f5)](https://www.tiktok.com/@bailey_lockheart) [![Instagram](https://img.shields.io/badge/Instagram-ff30ac?logo=Instagram&logoColor=f5f5f5)](https://www.instagram.com/bailey_lockheart) [![Threads](https://img.shields.io/badge/Threads-373737?logo=Threads&logoColor=f5f5f5)](https://www.threads.net/@bailey_lockheart) [![Bluesky](https://img.shields.io/badge/Bluesky-0085ff?logo=Bluesky&logoColor=f5f5f5)](https://bsky.app/profile/lockheartlove143.bsky.social) [![Spotify](https://img.shields.io/badge/Spotify-32b85f?logo=Spotify&logoColor=f5f5f5)](https://open.spotify.com/artist/0gZWd2jEBp1DloD73xiL8L)
