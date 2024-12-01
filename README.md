@@ -1,4 +1,4 @@
-# HIIII WELCOME IN!! ʚ(｡˃ ᵕ ˂ )ɞ
+# HIIII WELCOME IN!! ^^
 This is gonna be my place to put just about everything I do in terms of websites and coding! ~~I feel like that's a given?~~
 
 I'm Bailey, though you can also call me Jay! I like to play around with HTML and CSS to make static websites, though I am (somewhat) trying to learn JavaScript as well! I usually know enough to do what I want to do, but there's still lots for me to learn. I've been toying with personal websites for about two years now, and you can look [here](https://baileylockheart.github.io) to see what I've made so far!
