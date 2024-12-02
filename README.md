@@ -8,7 +8,7 @@ I definitely over-rely on social media, as many do, but I still have a special p
 ⊹ ࣪ ˖₊˚⊹⋆
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ff80c0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&redirect=true)
-![github trophies](https://github-profile-trophy.vercel.app/?username=baileylockheart&theme=dracula&title=Commit,Repository,Experience,Stars)
+![github trophies](https://github-profile-trophy.vercel.app/?username=baileylockheart&theme=dracula&title=Commit,Repository,Experience)
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=baileylockheart&theme=dracula)](https://github.com/madushadhanushka/github-readme?tab=readme-ov-file#longest-streak-stats)
 
 ⊹ ࣪ ˖₊˚⊹⋆
