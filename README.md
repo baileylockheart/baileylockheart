@@ -7,6 +7,12 @@ I definitely over-rely on social media, as many do, but I still have a special p
 
 ⊹ ࣪ ˖₊˚⊹⋆
 
+Some fun stuff :3 
+
+[![productive times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baileylockheart&theme=dracula&utcOffset=-8.00)](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file#productive-time-card)[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ff80c0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&redirect=true)[![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileylockheart&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file#profile-details-card) ![github trophies](https://github-profile-trophy.vercel.app/?username=baileylockheart&theme=dracula)
+
+⊹ ࣪ ˖₊˚⊹⋆
+
 If you wanna find me elsewhere, here are some of my links! I'm most active on Bluesky and Threads :)
 
 [![YouTube](https://img.shields.io/badge/YouTube-e63c3c?logo=YouTube&logoColor=f5f5f5)](https://www.youtube.com/@bailey_lockheart) [![TikTok](https://img.shields.io/badge/TikTok-40b9c2?logo=TikTok&logoColor=f5f5f5)](https://www.tiktok.com/@bailey_lockheart) [![Instagram](https://img.shields.io/badge/Instagram-ff30ac?logo=Instagram&logoColor=f5f5f5)](https://www.instagram.com/bailey_lockheart) [![Threads](https://img.shields.io/badge/Threads-373737?logo=Threads&logoColor=f5f5f5)](https://www.threads.net/@bailey_lockheart) [![Bluesky](https://img.shields.io/badge/Bluesky-0085ff?logo=Bluesky&logoColor=f5f5f5)](https://bsky.app/profile/lockheartlove143.bsky.social) [![Spotify](https://img.shields.io/badge/Spotify-32b85f?logo=Spotify&logoColor=f5f5f5)](https://open.spotify.com/artist/0gZWd2jEBp1DloD73xiL8L)
