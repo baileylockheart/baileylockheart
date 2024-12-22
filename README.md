@@ -15,7 +15,7 @@ My personal website, [lockheartlove](https://lockheartlove.netlify.app), is inte
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=html,css,md" height="40px"></td>
-      <td><img src="https://skillicons.dev/icons?i=js" height="40px"></td>
+      <td><img src="https://skillicons.dev/icons?i=sass,js" height="40px"></td>
       <td><img src="https://skillicons.dev/icons?i=py,php,react,godot" height="40px"></td>
       </tr>
   </table>
