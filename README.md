@@ -7,6 +7,19 @@ My personal website, [lockheartlove](https://lockheartlove.netlify.app), is inte
 
 ⊹ ࣪ ˖₊˚⊹⋆
 
+<table>
+    <tr>
+      <th>Can Do</th>
+      <th>Learning</th>
+      <th>Want to Learn</th>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=html,css,md" height="40px"></td>
+      <td><img src="https://skillicons.dev/icons?i=js" height="40px"></td>
+      <td><img src="https://skillicons.dev/icons?i=py,php,react,godot" height="40px"></td>
+      </tr>
+  </table>
+
 ![github trophies](https://github-profile-trophy.vercel.app/?username=baileylockheart&theme=dracula&title=Commit,Repository,Experience&column=3)[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ff80c0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&redirect=true)
 
 <a href="http://baileylockheart.neocities.org" target="_blank"><img src="http://baileylockheart.neocities.org/images/button.gif"/></a> <a href="http://lockheartlove.netlify.app" target="_blank"><img src="http://lockheartlove.netlify.app/images/buttons/links/lockheartlove_button.png"/></a> <a href="https://baileylockheart.github.io/" target="_blank"><img src="https://baileylockheart.github.io/images/portfolio-btn.png"/></a> <a href="https://lockheartlove.netlify.app/webmastery" target="_blank"><img src="https://lockheartlove.netlify.app/images/webmastery/webmasterytools.png"/></a> <a target="_blank" href="https://st0rmscribbles.netlify.app/home"><img src="https://st0rmscribbles.netlify.app/st0rm-button.png"/></a> <a href="https://puppypilled.netlify.app/" target="_blank"><img src="https://puppypilled.netlify.app/images/buttons/Puppypilled-button.png"/></a> <a href="https://maddsbuckleyfansite.meowandsparkle.party" target="_blank"><img src="https://maddsbuckleyfansite.meowandsparkle.party/images/maddsBbutton.png"/></a>
