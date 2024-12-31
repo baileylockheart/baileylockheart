@@ -3,7 +3,7 @@ This is gonna be my place to put just about everything I do in terms of websites
 
 Call me Bailey or Jay, whichever you'd like! I like to play around with HTML and CSS to make static websites, though I'm trying to learn JavaScript as well! I usually know enough to do what I want to do, but there's still lots for me to learn. I've been toying with personal websites for a couple years now, and you can look [here](https://baileylockheart.github.io) to see what I've made so far!
 
-My personal website, [lockheartlove](https://lockheartlove.neocities.org), is intended as a internet brain dump. It's meant for my interests and collections of fun things, and I'm actively looking for more things to add to it! Most recently, I've added a [webmastery](https://lockheartlove.netlify.app/webmastery) section, containing things I think can be helpful to the making of a personal website! I like looking around on Neocities and clicking through webrings, and I also enjoy looking through my mutuals' carrd/strawpage/rentry-adjacent things, if they have them. Generally speaking, I'd like to have some fun in my corner of the internet, and also witness the creativity that others can express in theirs!
+My personal website, [lockheartlove](https://lockheartlove.neocities.org), is intended as a internet brain dump. It's meant for my interests and collections of fun things, and I'm actively looking for more things to add to it! Recently, I've added a [webmastery](https://lockheartlove.netlify.app/webmastery) section, containing things I think can be helpful to the making of a personal website! I like looking around on Neocities and clicking through webrings, and I also enjoy looking through my mutuals' carrd/strawpage/rentry-adjacent things, if they have them. Generally speaking, I'd like to have some fun in my corner of the internet, and also witness the creativity that others can express in theirs!
 
 ⊹ ࣪ ˖₊˚⊹⋆
 
@@ -19,11 +19,14 @@ My personal website, [lockheartlove](https://lockheartlove.neocities.org), is in
       <td><img src="https://skillicons.dev/icons?i=py,php,react,godot" height="40px"></td>
       </tr>
   </table>
-
+  
 ![github trophies](https://github-profile-trophy.vercel.app/?username=baileylockheart&theme=dracula&title=Commit,Repository,Issues,Experience&column=4)[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ff80c0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=svuk7vvdgdtfjj2sf6fqbqu4p&redirect=true)
 
 <a href="http://baileylockheart.netlify.app" target="_blank"><img src="http://baileylockheart.netlify.app/images/button.gif"/></a> <a href="http://lockheartlove.neocities.org" target="_blank"><img src="http://lockheartlove.neocities.org/images/buttons/links/lockheartlove_button.png"/></a> <a href="https://baileylockheart.github.io/" target="_blank"><img src="https://baileylockheart.github.io/images/portfolio-btn.png"/></a> <a href="https://lockheartlove.netlify.app/webmastery" target="_blank"><img src="https://lockheartlove.netlify.app/images/webmastery/webmasterytools.png"/></a> <a target="_blank" href="https://st0rmscribbles.netlify.app/home"><img src="https://st0rmscribbles.netlify.app/st0rm-button.png"/></a> <a href="https://puppypilled.netlify.app/" target="_blank"><img src="https://puppypilled.netlify.app/images/buttons/Puppypilled-button.png"/></a> <a href="https://maddsbuckleyfansite.meowandsparkle.party" target="_blank"><img src="https://maddsbuckleyfansite.meowandsparkle.party/images/maddsBbutton.png"/></a> <a href="http://jaysplace.neocities.org" target="_blank"><img src="https://64.media.tumblr.com/44cd71b24645c1fbbc92f857852d1efa/58ff2167099a2b4b-90/s100x200/8743aeb24f3d8de2b784786d9e42eafadfe37b41.png"/></a>
 [![github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileylockheart&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file#profile-details-card)
+
+[![github top languages per repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baileylockheart&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file#top-languages-used-in-repository-card)
+[![github productive times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baileylockheart&theme=dracula&utcOffset=-8.00)](https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file#productive-time-card)
 
 ⊹ ࣪ ˖₊˚⊹⋆
 
