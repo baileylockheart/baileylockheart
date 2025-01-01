@@ -3,7 +3,7 @@ This is gonna be my place to put just about everything I do in terms of websites
 
 Call me Bailey or Jay, whichever you'd like! I like to play around with HTML and CSS to make static websites, though I'm trying to learn JavaScript as well! I usually know enough to do what I want to do, but there's still lots for me to learn. I've been toying with personal websites for a couple years now, and you can look [here](https://baileylockheart.github.io) to see what I've made so far!
 
-My personal website, [lockheartlove](https://lockheartlove.neocities.org), is intended as a internet brain dump. It's meant for my interests and collections of fun things, and I'm actively looking for more things to add to it! Recently, I've added a [webmastery](https://lockheartlove.netlify.app/webmastery) section, containing things I think can be helpful to the making of a personal website! I like looking around on Neocities and clicking through webrings, and I also enjoy looking through my mutuals' carrd/strawpage/rentry-adjacent things, if they have them. Generally speaking, I'd like to have some fun in my corner of the internet, and also witness the creativity that others can express in theirs!
+My personal website, [lockheartlove](https://lockheartlove.neocities.org), is intended as a internet brain dump. It's meant for my interests and collections of fun things, and I'm actively looking for more things to add to it! Recently, I've added a [webmastery](https://lockheartlove.neocities.org/webmastery) section, containing things I think can be helpful to the making of a personal website! I like looking around on Neocities and clicking through webrings, and I also enjoy looking through my mutuals' carrd/strawpage/rentry-adjacent things, if they have them. Generally speaking, I'd like to have some fun in my corner of the internet, and also witness the creativity that others can express in theirs!
 
 ⊹ ࣪ ˖₊˚⊹⋆
 
@@ -26,7 +26,7 @@ My personal website, [lockheartlove](https://lockheartlove.neocities.org), is in
 ![github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileylockheart&theme=dracula)
 ![github top languages per repo](https://github-readme-stats.vercel.app/api/top-langs?username=baileylockheart&show_icons=true&locale=en&layout=compact&theme=dracula)
 ![github productive times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baileylockheart&theme=dracula&utcOffset=-8.00)
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=baileylockheart&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=baileylockheart&theme=dracula)](https://git.io/streak-stats)
 
 ⊹ ࣪ ˖₊˚⊹⋆
 
