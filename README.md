@@ -26,7 +26,6 @@ My personal website, [lockheartlove](https://lockheartlove.neocities.org), is in
 ![github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileylockheart&theme=dracula)
 ![github productive times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baileylockheart&theme=dracula&utcOffset=-8.00)
 ![github top languages per repo](https://github-readme-stats.vercel.app/api/top-langs?username=baileylockheart&show_icons=true&hide_border=true&layout=compact&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=baileylockheart&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ⊹ ࣪ ˖₊˚⊹⋆
 
